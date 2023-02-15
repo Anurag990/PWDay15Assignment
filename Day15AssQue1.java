@@ -1,0 +1,1 @@
+package PWskill;import java.util.Scanner;public class Day15AssQue1 {    public static void main(String[] args) {        //Write a simple string program to take input from user.        System.out.println("Input the String : ");        Scanner sc = new Scanner(System.in);        String s = sc.next();        System.out.println(s);    }}
